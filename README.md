@@ -1,1 +1,2 @@
 # Solar-Explorer
+***"Solar Explorer"*** is a sleek, interactive website built with HTML, HAML, CSS, and SCSS that offers a visually captivating experience to explore the planets of our solar system. The responsive design ensures smooth navigation across devices, while SCSS enables organized styling with reusable components for a consistent look. HAML simplifies the HTML structure, making the codebase clean and efficient. Solar Explorer invites users to embark on a virtual journey through space, discovering the wonders of each planet.
